@@ -1,0 +1,4 @@
+distance_to_subject,prop_type,stories,address,city_province,sale_date,sale_price,dom,location_similarity,lot_size,age,condition,gla,room_count,bed_count,bath_count,basement_finish,parking,neighborhood,price_per_sqft
+0.15 KM,Townhouse,2 Storey,930 Amberdale Cres,Kingston ON K7M 6V1,2024-10-25,378900,38,Similar,N/A Condominium,49,Superior,1044,6,3,2:0,Full/Finished,No Garage,,362.9310344827586
+0.02 KM,Townhouse,2 Storey,771 Ashwood Dr,Kingston ON K7M 6X7,2025-02-05,327000,51,Inferior,N/A Condominium,49,Inferior,1044,6,3,1:0,Full/Finished,No Garage,,313.2183908045977
+0.09 KM,Townhouse,2 Storey,995 Amberdale Cres,Kingston ON K7M 6X6,2025-02-14,315000,95,Inferior,N/A Condominium,49,Inferior,1044,6,3,2:0,Full/Part Finished,No Garage,,301.7241379310345
